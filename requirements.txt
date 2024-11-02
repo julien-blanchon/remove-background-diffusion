@@ -1,0 +1,23 @@
+accelerate
+diffusers
+numpy
+tokenizers
+torch
+torchvision
+transformers
+xformers
+h5py
+opencv-python
+matplotlib
+scipy
+setuptools
+omegaconf
+wandb
+datasets
+peft
+tensorboard
+ipykernel
+jupyter
+ipywidgets
+# pip install ninja
+# pip install --no-build-isolation 'transformer_engine[pytorch]'
